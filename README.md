@@ -10,5 +10,3 @@ Early MS-DOS source code that Microsoft has released to an open source license.
 
 For educational use only.
 
-
-http://blastar.in/
